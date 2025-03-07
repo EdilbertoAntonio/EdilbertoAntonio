@@ -6,8 +6,7 @@
 - 🏫: I'm in the last semester of my Applied Physics degree. 🤓
 - 🔭: I'm currently doing a professional internship at Neuromarket.io
 - 🌱: I’m currently learning Deep Learning. 🧠💻🤖
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 💬: Ask me about Data Science and analysis, visualization and machine learning algorithms. 📊📈🤖
 - 📫 Reach out to me at: <a href="edilbertoantoniogg@gmail.com">edilbertoantoniogg@gmail.com</a>
 - ⚡ Fun fact: I love astronomy and see the stars. 🌃🪐
 
