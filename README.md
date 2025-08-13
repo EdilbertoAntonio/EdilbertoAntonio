@@ -3,10 +3,10 @@
 
 <h2> About Me! 😎 </h2>
 
-- 🏫: I'm in the last semester of my Applied Physics degree. 🤓
-- 🔭: I'm currently doing a professional internship at Neuromarket.io
+- 🏫: I have completed my studies and am in the process of obtaining my Applied Physics degree. 🤓
+- 🔭: I recently completed professional internship at Neuromarket.io
 - 🌱: I’m currently learning Deep Learning. 🧠💻🤖
-- 💬: Ask me about Data Science and analysis, visualization and machine learning algorithms. 📊📈🤖
+- 💬: Ask me about data dcience and analysis, visualization and machine learning algorithms. 📊📈🤖
 - 📫 Reach out to me at: <a href="edilbertoantoniogg@gmail.com">edilbertoantoniogg@gmail.com</a>
 - ⚡ Fun fact: I love astronomy and see the stars. 🌃🪐
 
@@ -46,6 +46,7 @@
 - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 ## Connect with Me! 📫
