@@ -3,10 +3,10 @@
 
 <h2> About Me! 😎 </h2>
 
-- 🏫: I have completed my studies and am in the process of obtaining my Applied Physics degree. 🤓
-- 🔭: I recently completed professional internship at Neuromarket.io
-- 🌱: I’m currently learning Deep Learning. 🧠💻🤖
-- 💬: Ask me about data dcience and analysis, visualization and machine learning algorithms. 📊📈🤖
+- 🧠: Applied Physics with a focus Data Science. 🤓
+- 🔭: I recently completed professional internship at Neuromarket.io, focusing in data visualization and analysis. 👾
+- 🌱: I’m currently learning Deep Learning. 💻🤖
+- 💬: Ask me about data science and analysis, visualization and machine learning algorithms. 📊📈
 - 📫 Reach out to me at: <a href="edilbertoantoniogg@gmail.com">edilbertoantoniogg@gmail.com</a>
 - ⚡ Fun fact: I love astronomy and see the stars. 🌃🪐
 
