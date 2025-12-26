@@ -3,12 +3,13 @@
 
 <h2> About Me! 😎 </h2>
 
+-
 - 🧠: Applied Physics with a focus Data Science. 🤓
-- 🔭: I recently completed professional internship at Neuromarket.io, focusing in data visualization and analysis. 👾
+- 🔭: Working as Data Analyst at BETTER, designing databases and optimizing productivity through data. 👾
 - 🌱: I’m currently learning Deep Learning. 💻🤖
-- 💬: Ask me about data science and analysis, visualization and machine learning algorithms. 📊📈
-- 📫 Reach out to me at: <a href="edilbertoantoniogg@gmail.com">edilbertoantoniogg@gmail.com</a>
-- ⚡ Fun fact: I love astronomy and see the stars. 🌃🪐
+- 💬: Ask me about Data Science, SQL, ETL processes, and Machine Learning. 📊📈
+- 📫 Reach out to me at: <a href="mailto:edilbertoantoniogg@gmail.com">edilbertoantoniogg@gmail.com</a>
+- ⚡ Fun fact: I love astronomy and stargazing. 🌃🪐
 
 
 ## 💻 Tech Stack and Skills:
